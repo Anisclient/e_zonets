@@ -12,8 +12,8 @@
     "login-page.js": "/e_zonets/static/js/login-page.a7d6a4d8.chunk.js",
     "login-page.js.map": "/e_zonets/static/js/login-page.a7d6a4d8.chunk.js.map",
     "main.css": "/e_zonets/static/css/main.14213900.chunk.css",
-    "main.js": "/e_zonets/static/js/main.fb7196e8.chunk.js",
-    "main.js.map": "/e_zonets/static/js/main.fb7196e8.chunk.js.map",
+    "main.js": "/e_zonets/static/js/main.4b09f89a.chunk.js",
+    "main.js.map": "/e_zonets/static/js/main.4b09f89a.chunk.js.map",
     "maincontent.css": "/e_zonets/static/css/maincontent.3c0c3ef6.chunk.css",
     "maincontent.js": "/e_zonets/static/js/maincontent.631e5fc3.chunk.js",
     "maincontent.js.map": "/e_zonets/static/js/maincontent.631e5fc3.chunk.js.map",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.82701db1.js",
     "static/js/12.7c791544.chunk.js",
     "static/css/main.14213900.chunk.css",
-    "static/js/main.fb7196e8.chunk.js"
+    "static/js/main.4b09f89a.chunk.js"
   ]
 }
